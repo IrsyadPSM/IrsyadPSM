@@ -25,7 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IrsyadPSM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-<div style="width:100%;height:0;padding-bottom:121%;position:relative;"><iframe src="https://giphy.com/embed/BKj72DaiNStWtMBakL" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/BKj72DaiNStWtMBakL"></a></p>
+<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhlanBucG1icTQ3c2JuYTlvZndyYTk1dXd0NGwwOW4yODR6cDJ0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/on9LDLF5JskaQ/giphy.gif"  />
 
 ###
 
