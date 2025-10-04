@@ -61,24 +61,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/IrsyadPSM/IrsyadPSM/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IrsyadPSM/IrsyadPSM/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IrsyadPSM/IrsyadPSM/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IrsyadPSM/IrsyadPSM/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/31cl53rjlzqa57d5dsinay2rdmhy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cl53rjlzqa57d5dsinay2rdmhy&count=5" alt="Spotify recently played"  />
